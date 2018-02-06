@@ -1,1 +1,3 @@
 # MyNewRepo
+
+- Adding some text
